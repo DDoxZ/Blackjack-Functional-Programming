@@ -12,25 +12,6 @@ Simulates a game of blackjack against a bot where the player decides how to play
  - The essence of functional programming languages, their structure and why they are useful
  - Tests for Haskell, including properties and QuickCheck tools
 
----
-## Operations
-
-```bash
-apostar [amountOfCreditsToBet]
-```
-
-```bash
-sair
-```
-
-```bash
-stand
-```
-
-```bash
-hit
-```
-
 
 ---
 ## Compilation
@@ -58,3 +39,23 @@ Above option for a random card deck with [amountOfCardDecks] decks shuffled
 ```
 
 Above for testing
+
+
+---
+## Operations
+
+```bash
+apostar [amountOfCreditsToBet]
+```
+
+```bash
+sair
+```
+
+```bash
+stand
+```
+
+```bash
+hit
+```
