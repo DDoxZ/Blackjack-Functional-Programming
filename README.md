@@ -10,7 +10,7 @@ Simulates a game of blackjack against a bot where the player decides how to play
 ## Learned
  - Haskell
  - The essence of functional programming languages, their structure and why they are useful
- - Tests for Haskell, including proprities and QuickCheck tools
+ - Tests for Haskell, including properties and QuickCheck tools
 
 ---
 ## Operations
