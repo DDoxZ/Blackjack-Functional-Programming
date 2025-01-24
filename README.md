@@ -1,3 +1,5 @@
+![Project IMG](Blackjack.png)
+
 # Blackjack-Functional-Programming
 
 ## Programming Principles Project
