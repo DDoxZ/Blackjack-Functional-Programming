@@ -3,7 +3,7 @@
 ![Project IMG](Blackjack.png)
 
 ## Programming Principles Project
-**This Project was made in collaboration with two other classmates:**<br>
+**This Project was made in collaboration with:**<br>
 Pedro Simoes <br>
 
 ## About
